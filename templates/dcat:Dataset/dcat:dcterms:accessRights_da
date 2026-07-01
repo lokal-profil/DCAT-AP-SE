@@ -4,5 +4,5 @@
   "description": {
     "en": "This property refers to information that indicates whether the Dataset is open data, has access restrictions or is not public.",
     "sv": "Den här egenskapen hänvisar till information som indikerar huruvida datamängden innehåller öppna data, har åtkomstrestriktioner eller inte är offentlig."
-  },
+  }
 }

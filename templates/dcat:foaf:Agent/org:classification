@@ -6,7 +6,7 @@
     "en": "Classification",
     "sv": "Klassificering"
   },
-  "descriptions": {
+  "description": {
     "en": "Classification of the agent, e.g. if financed via fees or not.",
     "sv": "Klassificering av aktör, t.ex. om man är reglerad att ta ut avgifter eller inte."
   },
@@ -17,7 +17,7 @@
         "en": "Regulated to take out fees on some service and data",
         "sv": "Reglerad att ta ut avgifter på tjänster och data"
       },
-      "descriptions": {
+      "description": {
         "en": "The agent is forced by regulation to take out fees on part of its services and data.",
         "sv": "Aktören är ålagd att finansiera en del av sin verksamhet genom att ta ut avgifter för vissa tjänster och data."
       }
