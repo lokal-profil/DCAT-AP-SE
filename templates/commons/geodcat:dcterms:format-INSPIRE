@@ -8,7 +8,7 @@
   },
   "description": {
     "en": "This list contains the media types applications should use for spatial data sets in INSPIRE, in particular in INSPIRE download services. Whenever sub-types exist that are registered with IANA or are in the registration process these are used. For all other formats, no commonly used sub-type exists and INSPIRE has to - at least temporarily - define their own types. In accordance with the rules for media types in RFC 2046/RFC 4288, these start with x-. In addition to the data-oriented mediatypes we also list four protocol oriented formats (application/vnd.ogc.[wms|wmts|wfs|wcs]_xml) to cover for the cases where a single protocol-oriented distribution is created for a dataset rather than one per data format.",
-    "sv": "Denna lista innehåller mediatyper som bör användas för datamängder inom INSPIRE, mer specifikt i INSPIREs nedladdningstjänster. Närhelst etablerade IANA mediatyper finns används dessa. När mediatyper saknas har INSPIRE - i allafall temporärt - definierat egna mediatyper. I enlighet med reglerna RFC 2046/RFC 4288 startas subtypen för dessa med x-. Utöver de dataorienterade mediatyperna listas också fyra protokollorienterade format (application/vnd.ogc.[wms|wmts|wfs|wcs]_xml) för att täcka in de fall när man skapar upp enbart en distribution som motsvarar protokollet istället för en distribution per format. "
+    "sv": "Denna lista innehåller mediatyper som bör användas för datamängder inom INSPIRE, mer specifikt i INSPIREs nedladdningstjänster. Närhelst etablerade IANA mediatyper finns används dessa. När mediatyper saknas har INSPIRE - i alla fall temporärt - definierat egna mediatyper. I enlighet med reglerna RFC 2046/RFC 4288 startas subtypen för dessa med x-. Utöver de dataorienterade mediatyperna listas också fyra protokollorienterade format (application/vnd.ogc.[wms|wmts|wfs|wcs]_xml) för att täcka in de fall när man skapar upp enbart en distribution som motsvarar protokollet istället för en distribution per format. "
   },
   "cardinality": {
     "min": 0,
@@ -42,11 +42,11 @@
       "value": "application/x-filegdb",
       "label": {
         "en": "x-filegdb",
-        "sv": "xfilegdb"
+        "sv": "x-filegdb"
       },
       "description": {
         "en": "The media type shall be used for Esri file geodatabases. The file is a zip archive that contains the gdb directory.",
-        "sv": "Mediatypen ska användas för Esri geodatabas-filer. Filen är ett zip-arkiv som innehåller gdp-filkatalogen."
+        "sv": "Mediatypen ska användas för Esri geodatabas-filer. Filen är ett zip-arkiv som innehåller gdb-filkatalogen."
       }
     },
     {
@@ -122,7 +122,7 @@
       },
       "description": {
         "en": "The media type shall be used for the LASer file format (LAS).",
-        "sv": "Mediatypen ska användas för filformatet LASer,"
+        "sv": "Mediatypen ska användas för filformatet LASer."
       }
     },
     {

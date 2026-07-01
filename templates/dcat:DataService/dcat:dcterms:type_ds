@@ -8,7 +8,7 @@
   },
   "description": {
     "en": "Which architectural style is used for the service. Use dcterms:conformsTo to indicate more details such as the exact protocol used.",
-    "sv": "Vilken arkitekturstil som tjänsten använder. Använd dcterms:conformsTo för att indikera mer detaljer som vilken exakt vilket protokoll som används."
+    "sv": "Vilken arkitekturstil som tjänsten använder. Använd dcterms:conformsTo för att indikera mer detaljer som exakt vilket protokoll som används."
   },
   "choices": [
     {
@@ -30,7 +30,7 @@
       },
       "description": {
         "en": "RPC services (Remote Procedure Call) implement a client-service message passing model allowing different procedures to be called from a single endpoint. RPC services can be divided into categories based on which protocol they use, the most common categories are XML-RPC, JSON-RPC, SOAP, and gRPC.",
-        "sv": "RPC tjänster (Remote Procedure Call) implmementerar en klient-server modell för meddelande transport där olika metoder kan anropas från samma åtkomstadress. RPC tjänster kan delas in i olika kategorier baserat på vilket protokoll de använder, de vanligaste protokollen är XML-RPC, JSON-RPC, SOAP och gRPC."
+        "sv": "RPC tjänster (Remote Procedure Call) implementerar en klient-server modell för meddelande transport där olika metoder kan anropas från samma åtkomstadress. RPC tjänster kan delas in i olika kategorier baserat på vilket protokoll de använder, de vanligaste protokollen är XML-RPC, JSON-RPC, SOAP och gRPC."
       }
     }
   ]

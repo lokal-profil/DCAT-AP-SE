@@ -7,7 +7,7 @@
   "property": "dcat:contactPoint",
   "description": {
     "en": "This property contains contact information that can be used for flagging errors in the dataservice or sending comments.",
-    "sv": "Egenskapen innehåller kontaktuppgifter som kan användas för att flagga fel i datatjänsten eller för att skicka kommentarer"
+    "sv": "Egenskapen innehåller kontaktuppgifter som kan användas för att flagga fel i datatjänsten eller för att skicka kommentarer."
   },
   "label": {
     "en": "Contact point",

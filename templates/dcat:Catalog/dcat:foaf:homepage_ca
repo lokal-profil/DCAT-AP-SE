@@ -6,7 +6,7 @@
   },
   "description": {
     "en": "This property refers to a web page that acts as the main page for the Catalogue.",
-    "sv": "Webadress till katalogens huvudsida."
+    "sv": "Webbadress till katalogens huvudsida."
   },
   "constraints": {
     "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://xmlns.com/foaf/0.1/Document"

@@ -8,7 +8,7 @@
   "property": "schema:mainEntityOfPage",
   "description": {
     "en": "A web page with information about the fee and the basis upon which the fee is calculated.",
-    "sv": "En webbsida där informationom avgift och beräkningsgrund beskrivs i mer detalj."
+    "sv": "En webbsida där information om avgift och beräkningsgrund beskrivs i mer detalj."
   },
   "cardinality": {
     "pref": 1,

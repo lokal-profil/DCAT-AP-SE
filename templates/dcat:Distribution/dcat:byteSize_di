@@ -13,7 +13,7 @@
   },
   "description": {
     "en": "The size in bytes can be approximated when the precise size is not known.",
-    "sv": "Distributionens storleken kan uppskattas när den exakta storleken är okänd."
+    "sv": "Distributionens storlek kan uppskattas när den exakta storleken är okänd."
   },
   "datatype": [
     "http://www.w3.org/2001/XMLSchema#nonNegativeInteger"

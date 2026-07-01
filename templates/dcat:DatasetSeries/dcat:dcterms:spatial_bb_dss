@@ -6,7 +6,7 @@
   },
   "description": {
     "en": "Bounding box for the data in the dataset series. If provided it should be the union of the bounding box of the individual datasets within the series.",
-    "sv": "Omskrivande rektangel för data i datmängdsserien. Om en omskrivande rektangel uttrycks på serien ska den motsvara unionen av de omskrivande rektanglarna på datamängderna i serien."
+    "sv": "Omskrivande rektangel för data i datamängdsserien. Om en omskrivande rektangel uttrycks på serien ska den motsvara unionen av de omskrivande rektanglarna på datamängderna i serien."
   },
   "type": "group",
   "nodetype": "RESOURCE",

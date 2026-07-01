@@ -50,7 +50,7 @@
       },
       "description": {
         "en": "End date of the period for which the dataset series contains data.",
-        "sv": "Slutdatum för den period då datamängdserien innehåller data."
+        "sv": "Slutdatum för den period då datamängdsserien innehåller data."
       },
       "datatype": [
         "http://www.w3.org/2001/XMLSchema#date",

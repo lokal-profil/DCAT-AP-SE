@@ -8,7 +8,7 @@
   },
   "description": {
     "en": "This property links the Catalogue with a Dataset that is part of the Catalogue.",
-    "sv": "Egenskapen hänvisar förbinder katalogen med en datamängd som är en del av katalogen."
+    "sv": "Egenskapen förbinder katalogen med en datamängd som är en del av katalogen."
   },
   "constraints": {
     "rdf:type": "dcat:Dataset"

@@ -2,7 +2,7 @@
   "property": "dcterms:identifier",
   "label": {
     "en": "Identifier",
-    "sv": "Indentifierare"
+    "sv": "Identifierare"
   },
   "description": {
     "en": "The main identifier for the agent, e.g. a Swedish organization should use the \"organisationsnummer\".",
