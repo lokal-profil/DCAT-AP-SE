@@ -7,7 +7,7 @@
     "sv": "Typ"
   },
   "description": {
-    "en": "This property tells wether the contect point corresponds to an Individual or an Organisation.",
+    "en": "This property tells whether the contact point corresponds to an Individual or an Organisation.",
     "sv": "Egenskapen anger om kontaktuppgiften motsvarar en individ eller organisation."
   },
   "choices": [
@@ -18,7 +18,7 @@
         "sv": "Individ"
       },
       "description": {
-        "en": "The contectpoint corresponds to an individual.",
+        "en": "The contact point corresponds to an individual.",
         "sv": "Kontaktuppgiften motsvarar en individ."
       }
     },

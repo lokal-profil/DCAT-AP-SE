@@ -18,7 +18,7 @@
         "sv": "CSV (.csv)"
       },
       "description": {
-        "en": "CSV is a simple spreadsheet format where rows are separeted by newlines and columns by commas, semicolon or some other special character.",
+        "en": "CSV is a simple spreadsheet format where rows are separated by newlines and columns by commas, semicolon or some other special character.",
         "sv": "CSV är ett enkelt format för kalkylark där rader är separerade av radbrytningar och kolumner av kommatecken, semikolon eller någon annan specialkaraktär."
       }
     },
@@ -105,7 +105,7 @@
         "sv": "Microsoft Excel (.xls)"
       },
       "description": {
-        "en": "Microsot Excel (.xls) is a proprietary, non-standardized, spreadsheet file format created by the Microsoft Corporation.",
+        "en": "Microsoft Excel (.xls) is a proprietary, non-standardized, spreadsheet file format created by the Microsoft Corporation.",
         "sv": "Microsoft Excel (.xls) är ett proprietärt, icke-standardiserat filformat för kalkylark skapat av Microsoft Corporation."
         }
     },

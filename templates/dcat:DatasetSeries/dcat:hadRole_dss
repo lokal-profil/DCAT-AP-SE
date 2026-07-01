@@ -7,7 +7,7 @@
     "sv": "Roll"
   },
   "description": {
-    "en": "The role of a datset series with respect to another dataset (series). See list of roles to use in Sweden here: https://www.dataportal.se/en/terminology/resource-role.",
+    "en": "The role of a dataset series with respect to another dataset (series). See list of roles to use in Sweden here: https://www.dataportal.se/en/terminology/resource-role.",
     "sv": "Anger på vilket sätt (vilken roll) en datamängdsserie är relaterad till en annan datamängd(serie). Se lista med roller vi valt att använda i Sverige här: https://www.dataportal.se/sv/terminology/resource-role."
   },
   "cardinality": {

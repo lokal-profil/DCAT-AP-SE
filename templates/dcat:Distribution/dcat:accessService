@@ -7,7 +7,7 @@
     "sv": "Åtkomst via datatjänst"
   },
   "description": {
-    "en": "This property refers to a data service that gives access to the distribution of the dataset",
+    "en": "This property refers to a data service that gives access to the distribution of the dataset.",
     "sv": "Datatjänst för åtkomst till datamängdens distribution. Denna egenskap kan upprepas när åtkomst är möjligt via flera tjänster."
   },
   "constraints": {

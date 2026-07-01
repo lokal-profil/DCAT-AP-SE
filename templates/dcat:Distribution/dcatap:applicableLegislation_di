@@ -3,7 +3,7 @@
   "type": "choice",
   "nodetype": "URI",
   "description": {
-    "en": "Legislation that mandates the creation or management of the Distribution. Note, should only be used if surrounding Datasets also is marked with applicable legislation.",
+    "en": "Legislation that mandates the creation or management of the Distribution. Note, should only be used if the surrounding Dataset is also marked with applicable legislation.",
     "sv": "Lagstiftning som kräver att distributionen skapas och/eller hanteras. Observera, använd endast om den omgivande datamängden har motsvarande märkning."
   }
 }

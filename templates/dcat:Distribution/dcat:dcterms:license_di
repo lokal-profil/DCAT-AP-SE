@@ -18,7 +18,7 @@
         "sv": "Licens - övrig"
       },
       "description": {
-        "en": "Refers to which licence under which the Distribution is made available if you are not using a CC license.",
+        "en": "Refers to the license under which the Distribution is made available if you are not using a CC license.",
         "sv": "Hänvisar till vilken licens som distributionen görs tillgänglig om du inte använder en CC licens."
       },
       "cardinality": {
@@ -37,7 +37,7 @@
     "max": 1
   },
   "description": {
-    "en": "This property refers to the licence under which the Distribution is made available.",
+    "en": "This property refers to the license under which the Distribution is made available.",
     "sv": "Den här egenskapen hänvisar till licensen enligt vilken distributionen görs tillgänglig."
   },
   "cls": [

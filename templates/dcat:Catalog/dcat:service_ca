@@ -7,7 +7,7 @@
     "sv": "Datatjänst"
   },
   "description": {
-    "en": "This property refers to a site or end-point that is listed in the catalog.",
+    "en": "This property refers to a data service that is listed in the catalog.",
     "sv": "Denna egenskap refererar till en datatjänst som är listad i katalogen."
   },
   "constraints": {

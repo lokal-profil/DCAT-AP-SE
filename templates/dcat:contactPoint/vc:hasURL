@@ -5,7 +5,7 @@
     "sv": "Hemsida"
   },
   "description": {
-    "en": "An webb address providing more information about a person or a specific administrative function within an organization.",
+    "en": "A web address providing more information about a person or a specific administrative function within an organization.",
     "sv": "En hemadress som tillhandahåller mer person om en person eller en funktionsadress inom en organisation."
   },
   "type": "text",

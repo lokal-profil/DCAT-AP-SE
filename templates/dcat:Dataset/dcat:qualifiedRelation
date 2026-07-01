@@ -7,7 +7,7 @@
     "sv": "Kvalificerad relaterad resurs"
   },
   "description": {
-    "en": "A qualified related resource makes it possible to point to a related resources togheter with a role that clarifies the character of the relation.",
+    "en": "A qualified related resource makes it possible to point to a related resource together with a role that clarifies the character of the relation.",
     "sv": "En kvalificerad relation gör det möjligt att peka på en relaterad resurs tillsammans med en roll som förtydligar relationens karaktär."
   },
   "constraints": {

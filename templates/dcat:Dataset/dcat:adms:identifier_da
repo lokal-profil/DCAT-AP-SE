@@ -7,7 +7,7 @@
     "sv": "Övrig identifikator"
   },
   "description": {
-    "en": "This property refers to a secondary identifier of the Dataset, such as MAST/ADS 48, DataCite 49 , DOI 50 , EZID 51 or W3ID 52.",
+    "en": "This property refers to a secondary identifier of the Dataset, such as MAST/ADS, DataCite, DOI, EZID or W3ID.",
     "sv": "Egenskapen avser en sekundär identifikator för datamängden"
   }
 }

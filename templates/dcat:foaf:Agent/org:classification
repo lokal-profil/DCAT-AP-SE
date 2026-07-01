@@ -7,7 +7,7 @@
     "sv": "Klassificering"
   },
   "descriptions": {
-    "en": "Classification of the agent, e.g. if finanzed via fees or not.",
+    "en": "Classification of the agent, e.g. if financed via fees or not.",
     "sv": "Klassificering av aktör, t.ex. om man är reglerad att ta ut avgifter eller inte."
   },
   "choices": [
